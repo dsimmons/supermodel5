@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[supermodel5.js]]></title>
+  <link href="http://dsimmons.github.com/supermodel5/atom.xml" rel="self"/>
+  <link href="http://dsimmons.github.com/supermodel5/"/>
+  <updated>2012-01-23T03:42:41-05:00</updated>
+  <id>http://dsimmons.github.com/supermodel5/</id>
+  <author>
+    <name><![CDATA[Dan Simmons]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Brainstorming]]></title>
+    <link href="http://dsimmons.github.com/supermodel5/2012/mock-up/"/>
+    <updated>2012-01-23T03:21:00-05:00</updated>
+    <id>http://dsimmons.github.com/supermodel5/2012/mock-up</id>
+    <content type="html"><![CDATA[<p>You can find our first draft mock-up image <a href="http://dsimmons.github.com/supermodel5/about/">here</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
